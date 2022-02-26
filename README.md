@@ -52,7 +52,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/my-project
+$ git clone https://github.com/cielio/ifoodApp
 
 # Access
 $ cd my-project
@@ -63,9 +63,8 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize
 ```
-
 
 
 <a href="#top">Back to top</a>
